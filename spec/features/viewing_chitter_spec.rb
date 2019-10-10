@@ -1,4 +1,3 @@
-
 feature 'Viewing chitter' do
   scenario 'visting the index page' do
     visit('/')
